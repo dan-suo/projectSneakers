@@ -13,6 +13,7 @@
   </div>
   <MyHello />
   <CompApiMyHello />
+  <RouterView />
 </template>
 
 <style scoped>
